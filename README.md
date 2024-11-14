@@ -1,18 +1,23 @@
-## Breif-Intro 👋
-this is HANG GAO, a post-graduate student in Jilin University. Please contact herbert_gao@outlook.com if there is any question. 
-
-Recently, I'm working on VLM for accelerated testing. Also, there is a personal /url{herbert-gao.github.io}[My page], feel free to click and explore.
 <!--
-**Herbert-Gao/Herbert-Gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ * @Author: 'herbert 'herbert_gao@outlook.com'
+ * @Date: 2024-11-14 17:15:19
+ * @LastEditors: 'herbert
+ * @LastEditTime: 2024-11-14 17:28:38
+ * @FilePath: \Herbert-Gao\README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by {Hang Gao}, All Rights Reserved. 
 -->
+## Breif-Intro 👋
+hi, this is HANG GAO, a post-graduate student in Jilin University. If you are interested in me, you can explore my [personal page](herbert-gao.github.io).
+
+Recently, I'm working on VLM for accelerated testing. Also, I am looking for an PhD opportunity in **AI powered security** and **advanced communication**. Please feel free to contact with me.
+
+- 🔭 I’m currently working on VLM for accelerated testing.
+- 🌱 I’m currently learning in JLU AI.
+- 🤔 I’m looking for an PhD opportunity in USA, UK or Singepore.
+- 💬 Ask me about Mechanics, Electronics, Machine Learning, Control about vehicles.
+- 📫 Personal email: herbert_gao@outlook.com
+- 😄 Phone number: +86 13333912989
+- ⚡ CAA member, IEEE student member, ...
+
