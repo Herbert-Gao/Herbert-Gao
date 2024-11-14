@@ -1,7 +1,7 @@
 ## Breif-Intro 👋
 this is HANG GAO, a post-graduate student in Jilin University. Please contact herbert_gao@outlook.com if there is any question. 
 
-Recently, I'm working on VLM for accelerated testing. Also, there is a personal webpage /url{}, feel free to click and explore.
+Recently, I'm working on VLM for accelerated testing. Also, there is a personal /url{herbert-gao.github.io}[My page], feel free to click and explore.
 <!--
 **Herbert-Gao/Herbert-Gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
