@@ -15,7 +15,6 @@ Recently, I'm working on VLM for accelerated testing. Also, I am looking for an 
 
 - 🔭 I’m currently working on VLM for accelerated testing.
 - 🌱 I’m currently learning in JLU AI.
-- 🤔 I’m looking for an PhD opportunity in USA, UK or Singepore.
 - 💬 Ask me about Mechanics, Electronics, Machine Learning, Control about vehicles.
 - 📫 Personal email: herbert_gao@outlook.com
 - 😄 Phone number: +86 13333912989
