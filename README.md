@@ -14,8 +14,8 @@ hi, this is HANG GAO, a post-graduate student in Jilin University. If you are in
 Recently, I'm working on VLM for accelerated testing. Also, I am looking for an PhD opportunity in **AI powered security** and **advanced communication**. Please feel free to contact with me.
 
 - 🔭 I’m currently working on VLM for accelerated testing.
-- 🌱 I’m currently learning in JLU AI.
-- 💬 Ask me about Mechanics, Electronics, Machine Learning, Control about vehicles.
+- 🌱 Currently, I am working in YuTong.
+- 💬 Ask me about Mechanics, Electronics, Machine Learning, Control of vehicles.
 - 📫 Personal email: herbert_gao@outlook.com
 - 😄 Phone number: +86 13333912989
 - ⚡ CAA member, IEEE student member, ...
