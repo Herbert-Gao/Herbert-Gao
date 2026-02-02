@@ -9,13 +9,13 @@
  * Copyright (c) 2025 by {Hang Gao}, All Rights Reserved. 
 -->
 ## Breif-Intro 👋
-hi, this is HANG GAO, a postgraduate of AI, Jilin University. 
+Hi, this is HANG GAO, a postgraduate of AI at Jilin University. 
 
-Recently, I'm working on VLM for accelerated testing. Also, I am looking for an PhD opportunity in **AI powered security** and **Physics**. Please feel free to contact with me.
+Recently, I have been looking for a PhD opportunity in **AI-powered security** and **Physics**. Please feel free to contact me.
 
 - 🔭 I’m currently working on VLM for accelerated testing.
-- 🌱 Currently, I am working in YuTong.
-- 💬 Ask me about Mechanics, Electronics, Machine Learning and Control of vehicles.
+- 🌱 Currently, I am working at YuTong.
+- 💬 Ask me about Mechanics, Electronics, Machine Learning, and Control of vehicles.
 - 📫 Personal email: herbert_gao@outlook.com
 - ⚡ CAA member, IEEE student member, ...
 
