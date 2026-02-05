@@ -19,4 +19,4 @@ Recently, I have been looking for a PhD opportunity in **AI-powered security** a
 - 📫 Personal email: herbert_gao@outlook.com
 - ⚡ CAA member, IEEE student member, ...
 
-If you are interested in me, you can explore my [personal page](https://herbert-gao.github.io/).
+If you are interested in me, you can explore my [personal page](https://herbert-gao.github.io/personal).
