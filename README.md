@@ -9,13 +9,13 @@
  * Copyright (c) 2025 by {Hang Gao}, All Rights Reserved. 
 -->
 ## Breif-Intro 👋
-Hi, this is HANG GAO, a postgraduate of AI at Jilin University. 
+Hi, I am Hang Gao, a postgraduate student in Control Science and Engineering at the School of Artificial Intelligence, Jilin University.
 
-Recently, I have been looking for a PhD opportunity in **AI-powered security** and **Physics**. Please feel free to contact me.
+I am currently seeking a PhD opportunity in the areas of Safety of Automation, Multi-Agent Systems, or Control Systems. Please feel free to contact me if you find my background suitable for your research group.
 
 - 🔭 I’m currently working on VLM for accelerated testing.
-- 💬 Ask me about Mechanics, Electronics, Machine Learning, and Control of vehicles.
+- 💬 Ask me about Mechanics, Electronics, Machine Learning, or Control of Robotics.
 - 📫 Personal email: herbert_gao@outlook.com
 - ⚡ CAA member, IEEE student member, SAE member...
 
-If you are interested in me, you can explore my [personal page](https://herbert-gao.github.io/personal).
+More interesting things will be found at [personal page](https://herbert-gao.github.io/personal).
